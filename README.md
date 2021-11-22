@@ -7,9 +7,9 @@ can help you improve participant engagement, sales presentations, and support
 response. This app aims to demonstrate how to use Deepgram API to compute talk
 time per speaker. We then display the calculated talk time in a pie chart.
 
-If you launch Glitch directly from a link in Deepgram Console, Deepgram creates and impliments a temporary API key for you named 'talk-time-demo'. This key will expire 8 hours after creation. If you need to make immediate changes to an app's access to your Deepgram account, you can do so my managing your Deepgram API keys in the Deepgram Console under Settings > API Keys
+If you launch Glitch directly from a link in Deepgram Console, Deepgram creates and implements a temporary API key for you named 'talk-time-demo'. This key will expire 8 hours after creation. If you need to make immediate changes to an app's access to your Deepgram account, you can do so my managing your Deepgram API keys in the Deepgram Console under Settings > API Keys
 
-Actions taken in Glitch are subject to [Glitch’s Terms of Service and Privacy Policy](https://glitch.com/legal) and are not covered by any Deepgram agreements.
+Actions taken in Glitch are subject to [Glitch’s Terms of Service and Privacy Policy](https://glitch.com/legal).
 
 
 ## Prerequisites
